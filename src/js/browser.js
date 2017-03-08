@@ -159,7 +159,7 @@ $(function(){
 
       $(document).keydown(function(e) {
         // f3 or ctrl + r
-        if ((e.which == 114) || (e.which == 82 && e.ctrlKey)) {
+        if ((e.which == 168) || (e.which == 82 && e.ctrlKey)) {
           // just reload all the open webvivews if there's multiple tabs for now
           $(window.document.body).find('webview').each(function(_, wv) {
             wv.reload();
