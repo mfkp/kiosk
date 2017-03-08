@@ -32,6 +32,7 @@
     "webview",
     "alwaysOnTopWindows",
     "storage",
+    "geolocation",
     "app.window.fullscreen",
     "app.window.fullscreen.overrideEsc",
     {"fileSystem": ["directory","retainEntries"]}
