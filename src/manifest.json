@@ -35,8 +35,10 @@
     "geolocation",
     "app.window.fullscreen",
     "app.window.fullscreen.overrideEsc",
+    "audioCapture",
+    "videoCapture",
     {"fileSystem": ["directory","retainEntries"]}
   ],
-  "optional_permissions": [ "audioCapture", "videoCapture" ]
+  "optional_permissions": []
 
 }
